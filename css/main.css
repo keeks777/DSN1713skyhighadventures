@@ -4,9 +4,17 @@
 
 .nav-link {
     color: #ffffff;
+    font-size: 1.5em;
 }
 
 .btn {
     color: #3B5039;
     background-color: #ffffff;
+    font-size: 1.5em;
+}
+
+.btn:hover {
+    color: #ffffff;
+    border: 2px solid #FFFFFF;
+    font-size: 1.5em;
 }
